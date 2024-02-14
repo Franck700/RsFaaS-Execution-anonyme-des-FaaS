@@ -69,3 +69,6 @@ Nous avons implémenté une fonction dictionnaire avec python. Pour créer cette
 
 ## E) Vidéo décrivant la solution
 
+Partie 1 : https://drive.google.com/file/d/1l02jqhVYb4Pfjl0Dxph2wzQlAPh1oqrF/view?usp=drive_link
+
+Partie 2 : https://drive.google.com/file/d/1g2xzJsOLo2V3aMFFvKn9nRXf_G5xON8P/view?usp=drive_link
